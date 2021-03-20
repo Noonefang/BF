@@ -7,7 +7,7 @@ Flask-PyMongo==2.3.0
 Flask-SQLAlchemy==2.4.0
 inflect==2.1.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 MongoAlchemy==0.19
 pymongo==2.8.1
